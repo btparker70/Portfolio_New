@@ -3,7 +3,7 @@ Thanks for visiting! My name is Brian and I am a software engineer. You can find
 
 <br>
 
->>>>>[Click here](https://btparker70.github.io/Portfolio_New/) to see the portfolio live!<<<<<
+ >>>>>[Click here](https://btparker70.github.io/Portfolio_New/) to see the portfolio live!<<<<<
 
 <br>
 
